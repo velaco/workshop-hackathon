@@ -1,0 +1,3 @@
+sqlalchemy
+kafka-python
+psycopg2-binary
